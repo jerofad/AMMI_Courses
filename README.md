@@ -32,14 +32,15 @@ Here is to be a comprehensive list of courses for the African masters in Machine
 ## Notable References:
 + [Deisenroth et al : Book(Mathematics for Machine Learning)]
 
-# Introduction to Deep Learning [Alfredo Canziani]
+# Introduction to Deep Learning [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani)
 ## Lecture Slides
-+ [Machine Learning and Spiral Classification]()
-+ [Convolutional Neural Network]()
-+ [Recurrent Neural Network]()
-+ [Generative Models]()
-+ [Regularisation]()
++ [Machine Learning and Spiral Classification](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/01%20-%20ML%20and%20spiral%20classification.pdf)
++ [Convolutional Neural Network](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/02%20-%20CNN.pdf)
++ [Recurrent Neural Network](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/04%20-%20RNN.pdf)
++ [Generative Models](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/05%20-%20Generative%20models.pdf)
++ [Regularisation](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/07%20-%20Regularisation.pdf)
 ## Notebooks
 ## Others
-+ [Salsa]
-+ [How To Do Presentation]
++ [Salsa](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/03%20-%20Salsa.pdf)
++ [How To Do Presentation](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse/blob/master/slides/06%20-%20How%20to%20present.pdf)
++ [Lecture Notes compiled by AMMI Student](https://drive.google.com/file/d/1w1t_K2A-ycuEKtssaPLL5066li-VySSo/view?usp=sharing)
