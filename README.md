@@ -1,6 +1,6 @@
 # AMMI_Courses
 Here is to be a comprehensive list of courses for the African masters in Machine Intelligence (AMMI) at African Institute of Mathematics (AIMS), Rwanda.
-# Foundations of Machine Learning [Marc Diesenroth](https://sites.google.com/view/marcdeisenroth)
+# Foundations of Machine Learning [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth)
 ## Lecture Slides
 + [Linear Regression](https://drive.google.com/open?id=1Xm8aTuuEe7Ku8P1C_SyqQuoLqX1oJl79)
 + [Logistic Regression](https://drive.google.com/open?id=1Yfla4zT4CA2dG2Y8spo25JRBu3_7bjHI)
